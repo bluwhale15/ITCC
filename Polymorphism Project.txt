@@ -1,0 +1,27 @@
+class pokemon{
+	public void sound() {
+		System.out.print("i am a pokemon");
+	}	
+}
+
+class Pikachu{
+	public void sound () {
+		System.out.print(" Pika pika! ");		
+	}	
+}
+
+class togepi{
+	public void sound () {
+		System.out.println("togepi");
+	}
+}
+
+public class Polyexample {
+
+	public static void main(String[] args) {
+		togepi p = new togepi();
+		Pikachu t = new Pikachu();
+		p.sound();
+		t.sound();
+	}
+}
