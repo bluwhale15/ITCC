@@ -1,2 +1,2 @@
 # ITCC
-for ITCC
+for ITCC porjects and activities
